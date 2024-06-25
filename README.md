@@ -9,9 +9,10 @@ This repository is for notes I take while spending 1 hour a day learning about r
 
 ## Progress Tracking
 
-| Day | Date       | Notes                                 | Topics Covered                                                                              |
-| --- | ---------- | ------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 1   | 2024-06-23 | [Tests And Tokio](tests_and_tokio.md) | Spawning a server as a background task and running requests against it to automate testing. |
-| 2   | 2024-06-24 | [Random port](random_port.md)         | Assigning a random available port to the server.                                            |
+| Day   | Date       | Notes                                               | Topics Covered                                                                                 |
+| ----- | ---------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 1     | 2024-06-23 | [Tests And Tokio](tests_and_tokio.md)               | Spawning a server as a background task and running requests against it to automate testing.    |
+| 2<br> | 2024-06-24 | [Random port](random_port.md)                       | Assigning a random available port to the server.                                               |
+| 3     | 2024-06-25 | [Decoding URL encoded data](parsing_a_post_request) | Parsing URL encoded data from a post request with actix-web and a primer on how `serde` works. |
 
 > Rust one hour a day, keeps javascript away.
