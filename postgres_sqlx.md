@@ -1,5 +1,5 @@
 # Persistence for our server: PostgreSQL
-postegres is the best well rounded choice for a database when starting a project.
+postgres is the best well rounded choice for a database when starting a project.
 sqlx provides compile-tim safety, async and an query interface that uses SQL.
 
 ## Spinning up a database
