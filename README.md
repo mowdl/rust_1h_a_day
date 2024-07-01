@@ -18,5 +18,6 @@ This repository is for notes I take while spending 1 hour a day learning about r
 | 5     | 2024-06-27 | [Enums in Rust](enums_in_rust.md)                      | enums, option and match.                                                                       |
 | 6     | 2024-06-28 | [Configuration](configuration.md)                      | Loading configurations from a file.                                                            |
 | 7     | 2024-06-30 | [actix-web, sqlx, postgres](connecting_to_postgres.md) | Connecting to postgres database and running queries from endpoint handlers.                    |
+| 8     | 2024-07-01 | [Database Tests Isolation](test_isolation.md)          | Creating a database for each test.                                                             |
 
 > Rust one hour a day, keeps javascript away.
